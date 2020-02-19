@@ -1,0 +1,84 @@
+.head {
+    text-align: center;
+    border: outset;
+    padding: 10px;
+}
+
+.Article1 {
+    border: solid;
+    margin: 100px;
+    padding: 20px;
+
+}
+
+.Ausfire {
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+    width: 500px;
+    height: auto;
+}
+
+.head {
+    border: solid;
+}
+
+.Article2 {
+    border: solid;
+    margin: 100px;
+    padding: 20px;
+
+}
+
+.amazonf {
+    display: flex;
+    align-items: center;
+    margin-left: 320px;
+    width: 500px;
+    height: auto;
+
+}
+.Article3 {
+    border: solid;
+    margin: 100px;
+    padding: 20px;
+
+}
+.Article4 {
+     border: solid;
+    margin: 100px;
+     padding: 20px;
+}
+.mekong {
+    display: flex;
+    align-items: center;
+    margin-left: 320px;
+    width: 500px;
+    height: auto;
+}
+.Article5  {
+     border: solid;
+    margin: 100px;
+     padding: 20px;
+    
+}
+
+.CentralAfrica1{
+    display: flex;
+    align-items: center;
+    margin-left: 320px;
+    width: 500px;
+    height: auto;
+}
+.Chaco {
+    display: flex;
+    align-items: center;
+    margin-left: 320px;
+    width: 500px;
+    height: auto;
+}
+
+
+body {
+    background-color: #b3ffb3;
+}
